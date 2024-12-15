@@ -1,4 +1,4 @@
-export const BASE_URL = "http://localhost:8082";
+export const BASE_URL = "https://mp-backend-332751032481.asia-southeast2.run.app";
 
 export const API_URL = {
     auth: {
